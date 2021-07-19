@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Strings
+Bundle-SymbolicName: Strings
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: Strings
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
